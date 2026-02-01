@@ -1,23 +1,13 @@
 {
   "clients": [
     {
-      "id": 2,
-      "name": "María González",
-      "plan": "Premium 50MB - $85,000",
-      "status": "active",
-      "balance": 0,
-      "lastPayment": "2024-12-20",
-      "phone": "301-234-5678",
-      "address": "Carrera 23 #45-67"
-    },
-    {
-      "id": 3,
+      "id": 1,
       "name": "Pablo Marulanda",
       "plan": "Plan 2 - $65,000",
       "status": "active",
       "balance": 0,
       "lastPayment": "2026-02-01",
-      "phone": "300000000",
+      "phone": "300",
       "address": "El Cedro"
     }
   ],
@@ -50,6 +40,6 @@
       "concept": "Pago mensual de internet"
     }
   ],
-  "lastUpdated": "2026-02-01T14:43:31.017Z",
+  "lastUpdated": "2026-02-01T14:44:33.282Z",
   "version": "1.0.0"
 }
