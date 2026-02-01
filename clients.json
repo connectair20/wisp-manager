@@ -1,0 +1,55 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "name": "Juan Pérez",
+      "plan": "Básico 10MB - $45,000",
+      "status": "active",
+      "balance": 0,
+      "lastPayment": "2024-12-15",
+      "phone": "300-123-4567",
+      "address": "Calle 45 #12-34"
+    },
+    {
+      "id": 2,
+      "name": "María González",
+      "plan": "Premium 50MB - $85,000",
+      "status": "active",
+      "balance": 0,
+      "lastPayment": "2024-12-20",
+      "phone": "301-234-5678",
+      "address": "Carrera 23 #45-67"
+    }
+  ],
+  "payments": [
+    {
+      "id": 1,
+      "clientName": "Juan Pérez",
+      "clientPhone": "300-123-4567",
+      "amount": 45000,
+      "date": "2024-12-15",
+      "method": "Efectivo",
+      "concept": "Pago mensual de internet"
+    },
+    {
+      "id": 2,
+      "clientName": "María González",
+      "clientPhone": "301-234-5678",
+      "amount": 85000,
+      "date": "2024-12-20",
+      "method": "Transferencia",
+      "concept": "Pago mensual de internet"
+    },
+    {
+      "id": 3,
+      "clientName": "Pedro López",
+      "clientPhone": "302-111-2222",
+      "amount": 55000,
+      "date": "2024-12-22",
+      "method": "Nequi",
+      "concept": "Pago mensual de internet"
+    }
+  ],
+  "lastUpdated": "2026-02-01T14:32:43.510Z",
+  "version": "1.0.0"
+}
