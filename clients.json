@@ -19,6 +19,16 @@
       "lastPayment": "2026-02-01",
       "phone": "3147627581",
       "address": "El Cedro"
+    },
+    {
+      "id": 3,
+      "name": "Roberth Mosquera",
+      "plan": "Plan 2 - $65,000",
+      "status": "active",
+      "balance": 0,
+      "lastPayment": "2026-02-01",
+      "phone": "315-228-5541",
+      "address": "El Cedro"
     }
   ],
   "payments": [
@@ -43,8 +53,19 @@
       "date": "2026-02-01",
       "method": "Efectivo",
       "concept": "Pago mensual de internet Enero 2026"
+    },
+    {
+      "id": 3,
+      "clientName": "Roberth Mosquera",
+      "clientPhone": "315-228-5541",
+      "clientAddress": "El Cedro",
+      "plan": "Plan 2 - $65,000",
+      "amount": 65000,
+      "date": "2026-02-01",
+      "method": "Nequi",
+      "concept": "Pago mensual de internet Enero 2026"
     }
   ],
-  "lastUpdated": "2026-02-01T15:14:28.888Z",
+  "lastUpdated": "2026-02-01T15:15:58.826Z",
   "version": "1.0.0"
 }
