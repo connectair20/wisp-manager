@@ -1,6 +1,17 @@
 {
-  "clients": [],
+  "clients": [
+    {
+      "id": 1,
+      "name": "Ste Larga Peludo y Cabezon",
+      "plan": "Plan 1 - $60,000",
+      "status": "active",
+      "balance": 0,
+      "lastPayment": "2026-02-01",
+      "phone": "300",
+      "address": "San Oedr"
+    }
+  ],
   "payments": [],
-  "lastUpdated": "2025-02-01T00:00:00.000Z",
+  "lastUpdated": "2026-02-01T14:59:18.708Z",
   "version": "1.0.0"
 }
