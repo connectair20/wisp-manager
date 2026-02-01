@@ -1,16 +1,6 @@
 {
   "clients": [
     {
-      "id": 1,
-      "name": "Juan Pérez",
-      "plan": "Básico 10MB - $45,000",
-      "status": "active",
-      "balance": 0,
-      "lastPayment": "2024-12-15",
-      "phone": "300-123-4567",
-      "address": "Calle 45 #12-34"
-    },
-    {
       "id": 2,
       "name": "María González",
       "plan": "Premium 50MB - $85,000",
@@ -19,6 +9,16 @@
       "lastPayment": "2024-12-20",
       "phone": "301-234-5678",
       "address": "Carrera 23 #45-67"
+    },
+    {
+      "id": 3,
+      "name": "Pablo Marulanda",
+      "plan": "Plan 2 - $65,000",
+      "status": "active",
+      "balance": 0,
+      "lastPayment": "2026-02-01",
+      "phone": "300000000",
+      "address": "El Cedro"
     }
   ],
   "payments": [
@@ -50,6 +50,6 @@
       "concept": "Pago mensual de internet"
     }
   ],
-  "lastUpdated": "2026-02-01T14:40:51.481Z",
+  "lastUpdated": "2026-02-01T14:43:31.017Z",
   "version": "1.0.0"
 }
