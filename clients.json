@@ -32,8 +32,19 @@
       "date": "2026-02-01",
       "method": "Efectivo",
       "concept": "Pago mensual de internet - Enero 2026"
+    },
+    {
+      "id": 2,
+      "clientName": "Hernando Cuervo",
+      "clientPhone": "3147627581",
+      "clientAddress": "El Cedro",
+      "plan": "Plan 2 - $65,000",
+      "amount": 65000,
+      "date": "2026-02-01",
+      "method": "Efectivo",
+      "concept": "Pago mensual de internet Enero 2026"
     }
   ],
-  "lastUpdated": "2026-02-01T15:09:25.976Z",
+  "lastUpdated": "2026-02-01T15:14:28.888Z",
   "version": "1.0.0"
 }
