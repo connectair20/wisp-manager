@@ -1,45 +1,6 @@
 {
-  "clients": [
-    {
-      "id": 1,
-      "name": "Pablo Marulanda",
-      "plan": "Plan 2 - $65,000",
-      "status": "active",
-      "balance": 0,
-      "lastPayment": "2026-02-01",
-      "phone": "300",
-      "address": "El Cedro"
-    }
-  ],
-  "payments": [
-    {
-      "id": 1,
-      "clientName": "Juan Pérez",
-      "clientPhone": "300-123-4567",
-      "amount": 45000,
-      "date": "2024-12-15",
-      "method": "Efectivo",
-      "concept": "Pago mensual de internet"
-    },
-    {
-      "id": 2,
-      "clientName": "María González",
-      "clientPhone": "301-234-5678",
-      "amount": 85000,
-      "date": "2024-12-20",
-      "method": "Transferencia",
-      "concept": "Pago mensual de internet"
-    },
-    {
-      "id": 3,
-      "clientName": "Pedro López",
-      "clientPhone": "302-111-2222",
-      "amount": 55000,
-      "date": "2024-12-22",
-      "method": "Nequi",
-      "concept": "Pago mensual de internet"
-    }
-  ],
-  "lastUpdated": "2026-02-01T14:53:15.516Z",
+  "clients": [],
+  "payments": [],
+  "lastUpdated": "2025-02-01T00:00:00.000Z",
   "version": "1.0.0"
 }
