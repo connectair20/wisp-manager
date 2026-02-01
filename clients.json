@@ -1,6 +1,17 @@
 {
-  "clients": [],
+  "clients": [
+    {
+      "id": 1,
+      "name": "Pablo Marulanda",
+      "plan": "Plan 2 - $65,000",
+      "status": "active",
+      "balance": 0,
+      "lastPayment": "2026-02-01",
+      "phone": "313-668-9214",
+      "address": "El Cedro"
+    }
+  ],
   "payments": [],
-  "lastUpdated": "2026-02-01T15:02:08.014Z",
+  "lastUpdated": "2026-02-01T15:03:34.270Z",
   "version": "1.0.0"
 }
